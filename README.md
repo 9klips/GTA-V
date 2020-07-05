@@ -26,6 +26,9 @@ Do same for rest network adapters. With higher values than 1.
 * [VibranceGUI](https://vibrancegui.com/) --> 65%
 * Disable Steam Overlay from GTA V Properties in Steam. Steam overlay eats up huge amount of fps and causes stuttering.
 * [Give your pc static ip](https://i.imgur.com/NcJvd1t.png)
+
+![](pc_static_ip_settings.png)
+
 * [Give your PC a static IP from your router. Then forward the ports shown below. After that Enable DMZ and UPnP in your router:-](https://imgur.com/a/rJ9xmjz
 )
 
