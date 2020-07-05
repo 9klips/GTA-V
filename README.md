@@ -8,7 +8,7 @@
 **Make it read only**
 
 ### Download [commandline.txt](commandline.txt) and place it here:
-> D:\_Program Files\Steam\steamapps\common\Grand Theft Auto V
+> ....\Steam\steamapps\common\Grand Theft Auto V
 
 ## Steam Launch Option:
 > -fullscreen -high
