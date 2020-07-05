@@ -20,11 +20,11 @@ Do same for rest network adapters. With higher values than 1.
 
 ## Miscellaneous Settings:-
 
-* **IMPORTANT:** It doesn't matter on which drive you install GTA V but you need to install Rockstar Launcher and Social Club in C:\ drive. Steam will download and install then as well as login with your rockstar account for you automatically when you install GTA V from steam. If it doesn't happen then you will have infinite loading time when opening GTA V and Activation problem. Try uninstalling and reinstalling GTA V completely from scratch and clean all the left over from your computer before reinstalling. Do remove all the rockstar softwares etc.
+* **IMPORTANT:** It doesn't matter on which drive you install GTA V but you need to install Rockstar Launcher and Social Club in C:\ drive. Steam will download and install them as well as login with your rockstar account for you automatically when you install GTA V from steam. If it doesn't happen then you will have infinite loading time when you open GTA V and will have Activation problem. Try uninstalling and reinstalling GTA V completely from scratch and clean all the leftover from your computer before reinstalling the game. Do remove all the rockstar softwares etc.
 
-* Check [✔] Disable fullscreen optimization for all games. If not disabled, it will make your game run in boderless fullscreen mode which drops fps & increase input lag.
+* Check [✔] Disable fullscreen optimization for all games. If not disabled, it will make your game run in boderless fullscreen mode which drops fps & increase input lag. It was introduced by Microsoft to show notification while you in a fullscreen program.
 * [VibranceGUI](https://vibrancegui.com/) --> 65%
-* Disable Steam Overlay from GTA V Properties in Steam.
+* Disable Steam Overlay from GTA V Properties in Steam. Steam overlay eats up huge amount of fps and causes stuttering.
 * [Give your pc static ip](https://i.imgur.com/NcJvd1t.png)
 * [Give your PC a static IP from your router. Then forward the ports shown below. After that Enable DMZ and UPnP in your router:-](https://imgur.com/a/rJ9xmjz
 )
